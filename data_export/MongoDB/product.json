@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "60b4851496c6956e22389c78"
+  },
+  "title": "iPhone 12 Pro Max 128GB",
+  "price": "31690000",
+  "desc": "Theo chu kỳ cứ mỗi 3 năm thì iPhone lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc quan trong này, vì thế rất có thể đây là thời điểm các mẫu",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xanh-duong-new-600x600-600x600.jpg",
+  "content": "iPhone 12 Pro Max 128 GB siêu phẩm smartphone đang được mong chờ nhất của Apple",
+  "cat_id": "1",
+  "code": "UNI#1"
+},{
+  "_id": {
+    "$oid": "60b486aead8b1611388a3b94"
+  },
+  "title": "iPhone 11 Pro Max 128GB",
+  "price": "22000000",
+  "code": "UNI#2",
+  "desc": "Theo chu kỳ cứ mỗi 3 năm thì iPhone lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc quan trong này, vì thế rất có thể đây là thời điểm các mẫu",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/42/210648/iphone-11-256gb-black-600x600.jpg",
+  "content": "iPhone 11 Pro Max 128GB siêu phẩm smartphone đang được mong chờ nhất của Apple",
+  "cat_id": "1"
+},{
+  "_id": {
+    "$oid": "60b48740ad8b1611388a3b95"
+  },
+  "title": "Điện thoại Samsung Galaxy S21+ 5G 256GB",
+  "price": "30000000",
+  "code": "UNI#3",
+  "desc": "Theo chu kỳ cứ mỗi 3 năm thì iPhone lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc quan trong này, vì thế rất có thể đây là thời điểm các mẫu",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/42/236128/samsung-galaxy-s21-plus-256gb-bac-600x600-600x600.jpg",
+  "content": "Điện thoại Samsung Galaxy S21+ 5G 256GB siêu phẩm smartphone đang được mong chờ nhất của Samsung",
+  "cat_id": "1"
+},{
+  "_id": {
+    "$oid": "60b48789ad8b1611388a3b96"
+  },
+  "title": "Laptop Apple MacBook Pro M1 2020 8GB/256GB (MYD82SA/A)",
+  "price": "30000000",
+  "code": "UNI#4",
+  "desc": "Theo chu kỳ cứ mỗi 3 năm thì iPhone lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc quan trong này, vì thế rất có thể đây là thời điểm các mẫu",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/44/231253/apple-macbook-pro-2020-m1-myd82saa-274121-084107-600x600.jpg",
+  "content": "Laptop Apple MacBook Pro M1 2020 8GB/256GB (MYD82SA/A) đang được mong chờ nhất của Apple",
+  "cat_id": "2"
+},{
+  "_id": {
+    "$oid": "60b49be2c65f0000ee005b56"
+  },
+  "title": "Laptop Apple MacBook Air 2017 i5 1.8GHz/8GB/128GB (MQD32SA/A)",
+  "price": "250000000",
+  "code": "UNI#5",
+  "desc": "Theo chu kỳ cứ mỗi 3 năm thì MacBook lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc",
+  "thumb": "https://laptopdieplinh.com/uploads/10-laptop-man-hinh-4k-chan-thuc-song-dong-nhat-2020.jpg",
+  "content": "ếu không có gì thay đổi, Laptop Apple MacBook Air 2017",
+  "cat_id": "2"
+},{
+  "_id": {
+    "$oid": "60b8a3140f3300009d0063d4"
+  },
+  "title": "Laptop Apple MacBook Pro M1 2020 8GB/512GB (MYD92SA/A)",
+  "price": "20000000",
+  "code": "UNI#6",
+  "desc": "Theo chu kỳ cứ mỗi 3 năm thì MacBook lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/44/231254/apple-macbook-pro-2020-myd92saa-2-600x600.jpg",
+  "content": "Máy tốt nên mua",
+  "cat_id": "2"
+},{
+  "_id": {
+    "$oid": "60b8a5410f3300009d0063d6"
+  },
+  "title": "Laptop Asus VivoBook X515MA N4020/4GB/256GB/Win10 (BR111T)",
+  "price": "7490000",
+  "code": "UNI#8",
+  "desc": "Laptop Asus VivoBook X515MA (BR111T) là một mẫu laptop học tập - văn phòng có thiết kế gọn nhẹ, hiệu năng ổn định phù hợp với các bạn thường xuyên sử dụng các ứng dụng văn phòng nhẹ nhàng.",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/44/233852/Slider/asus-vivobook-x515ma-n4020-br111t-slider-ddnb-800x444.jpg",
+  "content": "Intel CeleronN40201.10 GHz, Ram: 4 GBDDR4 (1 khe)",
+  "cat_id": "2"
+},{
+  "_id": {
+    "$oid": "60ceb8d08e6f1a318cf33bff"
+  },
+  "title": "Laptop Asus VivoBook X515MA N4020/4GB/256GB/Win10 (BR111T) 2312",
+  "price": "7490000",
+  "code": "UNI#99",
+  "desc": "Laptop Asus VivoBook X515MA (BR111T) là một mẫu laptop học tập - văn phòng có thiết kế gọn nhẹ, hiệu năng ổn định phù hợp với các bạn thường xuyên sử dụng các ứng dụng văn phòng nhẹ nhàng.",
+  "thumb": "https://cdn.tgdd.vn/Products/Images/44/233852/Slider/asus-vivobook-x515ma-n4020-br111t-slider-ddnb-800x444.jpg",
+  "content": "Intel CeleronN40201.10 GHz, Ram: 4 GBDDR4 (1 khe)",
+  "cat_id": "2"
+}]
