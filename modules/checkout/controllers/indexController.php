@@ -61,7 +61,8 @@ function updateAction()
         $ordernumber = md5($username . time());
         $orderdetailnumber = md5($username . time());
         $client->run(
-            "Create (:Order {OrderNumber: '{$ordernumber}' ,Username: '{$username}', Subtotal: '{$total}', Status: 1})"
+            "Create (:Order {OrderNumber: '{$ordernumber}' ,Username: '{$username}', Subtotal: '{$total}', 
+            Status: 1})"
         );
         foreach ($list_buy as $item) {
             $productName = $item['product_title'];
@@ -70,13 +71,15 @@ function updateAction()
 
             $client->run(
                 "
-                    Create (:OrderDetail {OrderDetailNumber: '{$orderdetailnumber}', Username: '{$username}', ProductName: '{$productName}', Qty:'{$qty}', Price:'{$price}'});
+                    Create (:OrderDetail {OrderDetailNumber: '{$orderdetailnumber}', Username: '{$username}', 
+                    ProductName: '{$productName}', Qty:'{$qty}', Price:'{$price}'});
                 "
             );
             $client->run(
                 "
                     MATCH (a:Order), (b:OrderDetail)
-                    WHERE a.OrderNumber = '{$ordernumber}' AND b.OrderDetailNumber = '{$orderdetailnumber}' AND b.ProductName = '{$productName}'
+                    WHERE a.OrderNumber = '{$ordernumber}' AND b.OrderDetailNumber = '{$orderdetailnumber}' 
+                    AND b.ProductName = '{$productName}'
                     CREATE (a)-[r:has]->(b)
                     RETURN r.name 
                 "

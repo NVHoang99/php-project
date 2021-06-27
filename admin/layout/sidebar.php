@@ -47,12 +47,12 @@
                 <span class="fa fa-map icon"></span>
                 <span class="title">Đơn Hàng</span>
             </a>
-                        <ul class="sub-menu">
+            <ul class="sub-menu">
                 <li class="nav-item">
-                    <a href="?mod=order&action=add" title="" class="nav-link">Thêm mới Đơn Hàng</a>
+                    <a href="?mod=orders&action=add" title="" class="nav-link">Thêm mới Đơn Hàng</a>
                 </li>
                 <li class="nav-item">
-                    <a href="?mod=order&action=index" title="" class="nav-link">Danh sách Đơn Hàng</a>
+                    <a href="?mod=orders&action=index" title="" class="nav-link">Danh sách Đơn Hàng</a>
                 </li>
             </ul>
         </li>
